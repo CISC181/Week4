@@ -31,7 +31,7 @@ public class CMain {
 		Course c2 = new Course("CISC 260");
 		stu.AddCourse(c2);
 		
-		
+		/*
 		stu.PrintName();
 		stu.PrintName(true);
 
@@ -39,7 +39,7 @@ public class CMain {
 		System.out.println(stu instanceof Person);
 		System.out.print("Is stu a instance of Student class? ");
 		System.out.println(stu instanceof Student);
-
+	*/
 		
 		try
 		{
